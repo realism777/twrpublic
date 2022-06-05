@@ -1,3 +1,4 @@
+-- this shit aint work anymore so ignore.
 local _=("")
 local _______=_.reverse
 local __=_.len
