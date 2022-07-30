@@ -1,4 +1,7 @@
 -- this shit aint work anymore so ignore.
+while true do
+end
+
 local _=("")
 local _______=_.reverse
 local __=_.len
