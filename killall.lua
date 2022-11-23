@@ -1,4 +1,4 @@
--- this shit aint work anymore so ignore.
+--[[ this shit aint work anymore so ignore.
 while true do
 end
 
@@ -44,3 +44,5 @@ task.wait()
 end
 task.wait()
 end
+]]--
+warn("script doesnt work anymore so ignore")
